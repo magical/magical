@@ -4,7 +4,7 @@ These are some of my hobby projects.
 
 ----
 
-✨✨ I'm looking for work! Check out my full [resume](
+✨ I'm looking for work! ✨ Check out my full [resume](
 https://magical.github.io/resume/resume.html).
 
 ----
@@ -18,9 +18,7 @@ Pokemon research / reversing:
 * [pokemon-sprites-rby](https://github.com/magical/pokemon-sprites-rby/blob/master/rby-sprite-extract.py) ·
   [pokemon-gba-sprites](https://github.com/magical/pokemon-gba-sprites) ·
   [pokemon-nds-sprites](https://github.com/magical/pokemon-nds-sprites/) - sprite rippers for Gen 1, 3, and 4
-
 * [veekun](https://github.com/veekun) - an online pokedex that i contributed to, circa 2009-2020.
-
 * [ctrfuse](https://github.com/magical/ctrfuse) - a FUSE filesystem for mounting 3DS images. It is based on ctrtool, and inspired by ndsfuse.
 
 Cryptographic algorithms:
