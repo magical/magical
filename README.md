@@ -1,7 +1,5 @@
 Hello! I'm a backend software engineer who likes solving interesting problems.
 
-These are some of my hobby projects.
-
 ----
 
 ✨ I'm looking for work! ✨ Check out my full [resume](
@@ -9,6 +7,7 @@ https://magical.github.io/resume/resume.html).
 
 ----
 
+These are some of my hobby projects.
 
 * [rootbeer](https://github.com/magical/rootbeer), a generator for sokoban-style Chip's Challenge levels
 * [CHIPS.EXE](https://github.com/magical/CHIPS.EXE), a full disassembly of Chip's Challenge for Windows (1992)
